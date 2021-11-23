@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ee9249ae335a5321fac6d0002a4ea3f0.js"
+  "/precache-manifest.4c9cd4e3cb65342e544541daed50861b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "nigma-fe"});
